@@ -1,0 +1,87 @@
+body,
+.welcome-panel .welcome-panel-column-container,
+.comment-ays,
+.feature-filter,
+.popular-tags,
+.stuffbox,
+.widgets-holder-wrap,
+.wp-editor-container,
+p.popular-tags,
+table.widefat,
+.alternate,
+.notice,
+div.error,
+div.updated,
+.striped>tbody>:nth-child(odd),
+ul.striped>:nth-child(odd),
+.health-check-header,
+.privacy-settings-header,
+.attachments-browser .media-toolbar,
+.postbox,
+#activity-widget #the-comment-list .comment-item,
+.wp-filter,
+.plugin-card,
+.plugin-card-bottom,
+#screen-meta,
+#contextual-help-back,
+.edit-post-header,
+.components-editor-notices__dismissible,
+.components-editor-notices__pinned,
+.edit-post-visual-editor,
+.interface-interface-skeleton__secondary-sidebar,
+.interface-interface-skeleton__sidebar {
+  background-color: color-mix(in srgb, Canvas, CanvasText 5%);
+  color: color-mix(in srgb, CanvasText, Canvas 15%);
+  color-scheme: dark light;
+}
+
+.rtl :is(h1,
+  h2,
+  h3,
+  h4,
+  h5,
+  h6),
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+.form-table th,
+.form-wrap label,
+.widefat td,
+.widefat th,
+.widefat tfoot tr td,
+.widefat tfoot tr th,
+.widefat thead tr td,
+.widefat thead tr th,
+.widefat ol,
+.widefat p,
+.widefat ul,
+.ac_match,
+.subsubsub a.current,
+.filter-links .current {
+  color: color-mix(in srgb, CanvasText, Canvas 15%);
+  color-scheme: dark light;
+}
+
+input[type=color],
+input[type=date],
+input[type=datetime-local],
+input[type=datetime],
+input[type=email],
+input[type=month],
+input[type=number],
+input[type=password],
+input[type=search],
+input[type=tel],
+input[type=text],
+input[type=time],
+input[type=url],
+input[type=week],
+select,
+textarea {
+  background-color: color-mix(in srgb, Canvas, CanvasText 25%);
+  color: color-mix(in srgb, CanvasText, Canvas 35%);
+  color-scheme: dark light;
+}

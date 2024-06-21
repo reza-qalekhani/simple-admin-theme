@@ -1,0 +1,193 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: Simple Admin Dashboard Theme\n"
+"POT-Creation-Date: 2024-06-21 13:21+0330\n"
+"PO-Revision-Date: 2024-04-11 16:36+0330\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: simple-admin-theme.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/interface.php:1
+msgid "UI Settings for the Dashboard"
+msgstr ""
+
+#: includes/interface.php:4
+msgid "Main Color"
+msgstr ""
+
+#: includes/interface.php:11
+msgid "Main Font Family"
+msgstr ""
+
+#: includes/interface.php:16
+msgid "VazirMatn"
+msgstr ""
+
+#: includes/interface.php:19
+msgid "IranSansX"
+msgstr ""
+
+#: includes/interface.php:22
+msgid "YekanBakh"
+msgstr ""
+
+#: includes/interface.php:28
+msgid "Login Background Image"
+msgstr ""
+
+#: includes/interface.php:33
+msgid "Select Background Image"
+msgstr ""
+
+#: includes/interface.php:37
+msgid "Disable other Widgets"
+msgstr ""
+
+#: includes/interface.php:46
+msgid "Disable None."
+msgstr ""
+
+#: includes/interface.php:54
+msgid "Disable All."
+msgstr ""
+
+#: includes/interface.php:60
+msgid "Custom Widget Format"
+msgstr ""
+
+#: includes/interface.php:69
+msgid "Horizontal Widget (Welcome Screen)"
+msgstr ""
+
+#: includes/interface.php:77
+msgid "Vertical Widget (Regular)"
+msgstr ""
+
+#: includes/settings.php:6 includes/settings.php:27
+msgid "Simple Admin Dashboard Theme Settings"
+msgstr ""
+
+#: includes/settings.php:7
+msgid ""
+"On this page, you can customize the settings of the Simple Admin Dashboard "
+"Theme."
+msgstr ""
+
+#: includes/settings.php:28
+msgid "Admin Dashboard"
+msgstr ""
+
+#: includes/social.php:1
+msgid "Designer Team's Social Media URLs"
+msgstr ""
+
+#: includes/social.php:4
+msgid "Instagram URL"
+msgstr ""
+
+#: includes/social.php:9
+msgid "WhatsApp URL"
+msgstr ""
+
+#: includes/social.php:14
+msgid "YouTube URL"
+msgstr ""
+
+#: includes/social.php:19
+msgid "LinkedIn URL"
+msgstr ""
+
+#: includes/support.php:1
+msgid "Designer Team's Support Information"
+msgstr ""
+
+#: includes/support.php:4 includes/welcome.php:49 includes/widget.php:33
+msgid "Phone Number"
+msgstr ""
+
+#: includes/support.php:9 includes/welcome.php:58 includes/widget.php:42
+msgid "Email Address"
+msgstr ""
+
+#: includes/support.php:15 includes/welcome.php:67 includes/widget.php:51
+msgid "Tutorials URL"
+msgstr ""
+
+#: includes/support.php:21 includes/welcome.php:76 includes/widget.php:60
+msgid "Client Area URL"
+msgstr ""
+
+#: includes/support.php:27
+msgid "Intro Text"
+msgstr ""
+
+#: includes/support.php:33
+msgid "Video Source"
+msgstr ""
+
+#: includes/support.php:42
+msgid "YouTube"
+msgstr ""
+
+#: includes/support.php:50
+msgid "Aparat"
+msgstr ""
+
+#: includes/support.php:56
+msgid "Video URL"
+msgstr ""
+
+#: includes/welcome.php:23
+#, php-format
+msgid "Welcome to the %1$s Admin Area :)"
+msgstr ""
+
+#: includes/welcome.php:25
+msgid "Here you can view and manage your website's content and structure."
+msgstr ""
+
+#: includes/welcome.php:36 includes/widget.php:69
+msgid ""
+"A short video tutorial has been prepared for you to guide you with the "
+"WordPress admin panel. To see more tutorials, you can visit our site. Feel "
+"free to contact us for more detailed support."
+msgstr ""
+
+#: includes/welcome.php:98 includes/widget.php:86
+msgid "No video tutorial is set!"
+msgstr ""
+
+#: includes/widget.php:109
+msgid "Support Information"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+msgid "Simple Admin Dashboard Theme"
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://byreza.net"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Simple Admin Dashboard"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Reza Qalekhani"
+msgstr ""

@@ -1,0 +1,91 @@
+@font-face {
+    font-family: vazir;
+    src: url("../fonts/vazir_regular.woff2");
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: vazir;
+    src: url("../fonts/vazir_bold.woff2");
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url("../fonts/iransansx_regular.woff2");
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: iransans;
+    src: url("../fonts/iransansx_bold.woff2");
+    font-weight: bold;
+  }
+  
+  @font-face {
+    font-family: yekanbakh;
+    src: url("../fonts/yekanbakh_regular.woff2");
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: yekanbakh;
+    src: url("../fonts/yekanbakh_bold.woff2");
+    font-weight: bold;
+  }
+
+* {
+    box-sizing: border-box
+}
+
+body.rtl {
+    font-family: var(--main-font), serif;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+    padding-top: 20vh;
+    overflow: hidden;
+    font-size: 16px;
+    font-weight: 400;
+    font-style: normal;
+}
+
+body.rtl .language-switcher {
+    display: none;
+}
+
+body.rtl #login {
+    background-color: #fff;
+    border-radius: 20px;
+    filter: drop-shadow(2px 4px 6px black);
+    padding: 1rem 2rem;
+    width: min(400px, 90%);
+}
+
+body.rtl #login input#wp-submit {
+    line-height: 1.2 !important;
+    border-radius: 0.3em;
+    padding: 0.8em 1.8em;
+    border-color: transparent;
+    color: #ffffff !important;
+    box-shadow: 0px 0.1em 0.2em 0px rgba(0, 0, 0, 0.2);
+    background-color: var(--main-color);
+}
+
+.login .message,
+.login .notice,
+.login .success {
+    font-size: 0.9rem;
+}
+
+.wp-core-ui .button,
+.wp-core-ui .button-secondary {
+    color: var(--main-color);
+    border-color: var(--main-color);
+}
+
+input[type=text]:focus,
+input[type=password]:focus {
+    border-color: var(--main-color);
+}
